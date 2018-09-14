@@ -11,6 +11,9 @@ I have some kernels on Kaggle that you might be interested in.
 Here is the link:
 https://www.kaggle.com/justjun0321
 
+And here is my LinkedIn Profile:
+https://www.linkedin.com/in/weichunchang/
+
 I'm here to build some projects and a portfolio, helping myself getting a data science job and helping someone like me in the future.
 
 Cheers,
