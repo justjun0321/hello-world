@@ -1,5 +1,4 @@
 # hello-world
-My first repository
 
 Hi,
 
@@ -16,5 +15,5 @@ https://www.linkedin.com/in/weichunchang/
 
 I'm here to build some projects and a portfolio, helping myself getting a data science job and helping someone like me in the future.
 
-Cheers,
+Cheers,   
 Wei Chun Chang
